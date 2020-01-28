@@ -11,6 +11,9 @@ input[type=button], input[type=submit], input[type=reset] {
   margin: 4px 2px;
   cursor: pointer;
 }
+body{
+	font-family: montserrat, arial, verdana;
+}
 
 textarea {
   width: 50%;
@@ -27,10 +30,11 @@ input[type=text] {
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
-  border: 3px solid #ccc;
+  border: 2px solid #ccc;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   outline: none;
+  border-radius: 4px;
 }
 
 input[type=text]:focus {

@@ -5,3 +5,17 @@
 	- Use-Case Driven
 	- Architecture-Centric
 	- iterative and incremental
+
+Use Case Driven
+
+Architecture Centric:-  Different views of system being built. Form for which Use Cases provide function.
+eg:- Structure,Heat,plumbing,electricity
+
+Iterative and Incremental
+
+Cycle and Phases:- Cycle concludrd with an External Release
+
+Model View Controller(MVC)
+Design Pattern(book)
+
+MVC Architecture

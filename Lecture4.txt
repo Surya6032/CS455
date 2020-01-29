@@ -1,0 +1,7 @@
+ Unified Software Development Process
+* The three amigos
+* Unifies Modeling Language(UML)
+* Rational Unified Process(RUP)
+	- Use-Case Driven
+	- Architecture-Centric
+	- iterative and incremental

@@ -11,4 +11,5 @@ User----->Travel info------->validation--------->Record
 4) Modularity too many and too less
 5) Refactoring
 6) Ch 12(read again)->High cohesion(Methods and data are in same place) 
-7) 
+7) Books to read-> Design of Design, Watch Uncle Bob
+8) if(password_verify($pwd,$row("password"){ $valid = true;} ////For unhashing the password

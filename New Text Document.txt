@@ -14,3 +14,4 @@ User----->Travel info------->validation--------->Record
 7) Books to read-> Design of Design, Watch Uncle Bob
 8) if(password_verify($pwd,$row("password"){ $valid = true;} ////For unhashing the password
 9) surya22@
+10)gpg --help

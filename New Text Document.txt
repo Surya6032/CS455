@@ -1,0 +1,8 @@
+Test
+*****
+1) Three C's(complete,consistent,..)
+2) 
+    1)info           2)info              3) create
+User----->Travel info------->validation--------->Record
+    <-----           <--------
+     5)Summ          4)summary

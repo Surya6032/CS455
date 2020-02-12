@@ -13,3 +13,4 @@ User----->Travel info------->validation--------->Record
 6) Ch 12(read again)->High cohesion(Methods and data are in same place) 
 7) Books to read-> Design of Design, Watch Uncle Bob
 8) if(password_verify($pwd,$row("password"){ $valid = true;} ////For unhashing the password
+9) surya22@

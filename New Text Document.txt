@@ -15,3 +15,5 @@ User----->Travel info------->validation--------->Record
 8) if(password_verify($pwd,$row("password"){ $valid = true;} ////For unhashing the password
 9) surya22@
 10)gpg --help
+11) Decrypt:- gpg -d userfile
+12)gpg -se -r surya jcrabtree.txt (encryption)
